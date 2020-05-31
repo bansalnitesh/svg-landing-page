@@ -1,0 +1,50 @@
+body{
+    background-image: url(./images/background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.num{
+width: 150px;
+height: 150px;
+position: absolute;
+}
+#container{
+    margin-top: 300px;
+    margin-left: 100px;
+}
+#num1{
+    margin-top: -150px;
+    margin-left: 140px;
+}
+#num2{
+    margin-left: 270px;
+    margin-top: -30px;
+}
+#num3{
+    margin-top: -150px;
+    margin-left: 380px;
+}
+#num4{
+    margin-left: 480px;
+    margin-top: -30px;
+}
+#num5{
+    margin-left: 650px;
+    margin-top: -140px;
+}
+#num6{
+    margin-left: 730px;
+    margin-top: -40px;
+}
+#num7{
+    margin-left: 880px;
+    margin-top: -120px;
+}
+#num8{
+    margin-left: 1010px;
+    margin-top: -30px;
+}
+#num9{
+    margin-left: 1110px;
+    margin-top: -190px;
+}
